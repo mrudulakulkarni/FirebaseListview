@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "641374581126",
+    "firebase_url": "https://fir-listview-ff170.firebaseio.com",
+    "project_id": "fir-listview-ff170",
+    "storage_bucket": "fir-listview-ff170.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641374581126:android:4acffa1648bb98bd",
+        "android_client_info": {
+          "package_name": "com.example.admin.firebaselistview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641374581126-7sjke399t9fl2a61nsjf74i6eki3n7ur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMzYAMbR8JTpDRLI8-HsQwlG03GJWXwQk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
